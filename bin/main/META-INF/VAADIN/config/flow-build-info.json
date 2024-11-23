@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/bcavichioni/secure-code-assessment",
+  "node.version": "v20.18.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/home/bcavichioni/secure-code-assessment/./src/main/frontend",
+  "connect.javaSourceFolder": "/home/bcavichioni/secure-code-assessment/src/main/java",
+  "javaResourceFolder": "/home/bcavichioni/secure-code-assessment/src/main/resources",
+  "connect.applicationProperties": "/home/bcavichioni/secure-code-assessment/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/bcavichioni/secure-code-assessment/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/bcavichioni/secure-code-assessment/./src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "build",
+  "react.enable": true
+}
